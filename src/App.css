@@ -1,0 +1,21 @@
+.links {
+  display: flex;
+  flex-direction: row;
+  padding-left: 20px;
+  background-color: white;
+}
+
+.link1 {
+  margin-left: 20px;
+  color: white;
+  font-size: 25px;
+}
+
+.post {
+  display: flex;
+  flex-direction: row;
+}
+
+.delete { 
+  margin-left: 20px;
+}
